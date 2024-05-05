@@ -1,2 +1,103 @@
-# Auto detect text files and perform LF normalization
+// ARRY AND LOOP
+
+// Q 1
+// var number = []
+// var num = [[]]
+
+// Q 2
+// for(var i=1;i<11;i++){
+//     document.write(i+"<br>")
+// }
+
+// Q 3
+
+// var enter = +prompt("Enter No")
+// var enterno = +prompt("Enter length")
+// for(var i=1; i<=enterno; i++){
+//     document.write(enter+"x"+i+"="+enter*i+"<br>")
+// }
+
+// Q 4
+
+// var fruitNames=["apple","mango","orange","banana","graps","watermalon"]
+// document.write(fruitNames)
+
+// Q 5
+
+// for(var i=1; i<=15;i++){
+//     document.write(i+"<br>")
+// }
+
+// for(var i=10; i>0;i--){
+//     document.write(i+"<br>")
+// }
+
+// for(var i=0; i<=30;i=i+2){
+//     document.write(i+"<br>")
+// }
+
+// for(var i=2000; i<=20000;i=i+2000){
+//         document.write(i+"<br>")
+//      }
+
+// Q 6
+
+// var itemss=["cake", "apple"," pie", "cookie", "chips", "patties"]
+// var valuee=+prompt("Give me the Order Sir")
+// if(valuee===cake){
+//     document.write("cake is available in our bakery")
+// }
+// else{
+//     document.write("Sorry this item is not available in our bakery")
+// }
+
+
+// Q 7
+// var arr = [33,66,27,92,42,11,20];
+// var min = arr[0];
+// // for(var i = 0; i < arr.length; i++){
+// //     if (min > arr[i]){
+// //         min = arr[i]
+// //     }
+// // }
+// // console.log(min)
+
+
+// // Q 8
+// var arr = [33,66,27,92,42,11,20];
+// var max = arr[0];
+// for(var i = 0; i < arr.length; i++){
+//     if (max < arr[i]){
+//         max = arr[i]
+//     }
+// }
+// console.log(max)
+
+
+
+
+
+
+
+
+
+
+
+// Q 9
+
+// for(var i=5; i<=100;i=i+5){
+//     document.write(i+"<br>")
+// }
+
+
+
+
+
+
+
+
+// var word = prompt("Enter word")
+// for(var i = word.length-1 ; i >= 0 ;i--){
+//     console.log(word[i])
+// }# Auto detect text files and perform LF normalization
 * text=auto
